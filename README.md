@@ -38,10 +38,6 @@ Then open `http://localhost:8000`.
 5. Click **Save**.
 6. GitHub will provide your live portfolio URL.
 
-Typical URL:
-
-`https://YOUR-USERNAME.github.io/portfolio/`
-
 ## Important
 
 Keep `index.html`, `style.css`, and `script.js` in the repository root unless the code is intentionally changed to use another path.
